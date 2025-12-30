@@ -1,0 +1,9 @@
+ipykernel
+langchain_groq
+dotenv
+langchain_huggingface
+langchain_community
+sentence-transformers
+langchain_text_splitters
+pypdf
+langchain_AstraDB
